@@ -2,6 +2,24 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ogi+Bastian+%F0%9F%91%8B;Full-Stack+Development+Learner;Building+My+Portfolio+Projects" alt="Typing SVG" />
 
+<br>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
+
+## Ogi Bastian
+
+**Full-Stack Development Learner · JavaScript · Python · PHP**
+
+<br>
+
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+
 </div>
 
 ---
