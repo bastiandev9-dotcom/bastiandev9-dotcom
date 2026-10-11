@@ -58,7 +58,7 @@ ROWS = [
     ("kv", "Backend", "Node, Laravel, PHP, Go"),
     ("kv", "Langs", "JavaScript, TypeScript, Python"),
     ("kv", "Database", "PostgreSQL, MySQL, MongoDB"),
-    ("kv", "Tools", "VS Code, Postman, Git, GitHub"),
+    ("kv", "Tools", "VS Code, Postman, WSL, Git, GitHub"),
     ("kv", "DevOps", "Docker, GitHub Actions"),
     ("gap",),
     ("sec", "Highlights"),
