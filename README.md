@@ -15,6 +15,11 @@
 
 **Full-Stack Development Learner · JavaScript · Python · PHP**
 
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-yes-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogi-bastian-171092319/)
+[![Open to Contribute](https://img.shields.io/badge/Open_to-Contribute-3fb950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bastiandev9-dotcom)
+[![Internship](https://img.shields.io/badge/Internship-available-ffa657?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.linkedin.com/in/ogi-bastian-171092319/)
+[![Discussions](https://img.shields.io/badge/Discussions-Join-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bastiandev9-dotcom/bastiandev9-dotcom/discussions)
+
 <br>
 
 <!-- animated contribution graph, refreshed daily by the workflow -->
