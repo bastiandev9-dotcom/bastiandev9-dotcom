@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 376
+W, H = 480, 420
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -53,8 +53,11 @@ ROWS = [
     ("kv", "Site", "github.com/bastiandev9-dotcom"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Frontend", "HTML, CSS, Bootstrap"),
-    ("kv", "Backend", "JavaScript, PHP, Python"),
+    ("kv", "Frontend", "React, Next.js, Vue, Vite"),
+    ("kv", "Styling", "HTML, CSS, Tailwind"),
+    ("kv", "Backend", "Node, Laravel, PHP, Go"),
+    ("kv", "Langs", "JavaScript, TypeScript, Python"),
+    ("kv", "Database", "PostgreSQL, MySQL, MongoDB"),
     ("kv", "Tools", "Git, GitHub"),
     ("gap",),
     ("sec", "Highlights"),
