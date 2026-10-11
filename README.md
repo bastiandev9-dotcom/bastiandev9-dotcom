@@ -59,6 +59,17 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Stack | Deskripsi |
+| :--- | :--- | :--- |
+| [**SAWmoto**](https://github.com/bastiandev9-dotcom/SAWmoto) | TypeScript | Aplikasi rekomendasi kendaraan pakai metode Simple Additive Weighting (SAW). |
+| [**Parfum-website**](https://github.com/bastiandev9-dotcom/Parfum-website) | PHP | Website katalog dan profil produk parfum. |
+| [**chatbot-app**](https://github.com/bastiandev9-dotcom/chatbot-app) | Python | Aplikasi chatbot sederhana. |
+| [**LMS**](https://github.com/bastiandev9-dotcom/LMS) | TypeScript | Project rekayasa perangkat lunak — kontribusi di repo orang lain. |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
