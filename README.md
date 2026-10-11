@@ -28,7 +28,7 @@
 
 - 💻 Learning **full-stack development**
 - 🌱 Currently exploring **JavaScript, Python, PHP**
-- 🎯 Building portfolio projects (calculator, inventory, web design)
+- 🎯 Building portfolio projects (LMS — contributing to someone else's repo, Sawmoto, Parfum-website, Chatbot-app)
 - ⚡ Fun fact: I love turning ideas into real apps
 
 ---

@@ -48,7 +48,7 @@ HOST = "ogi"   # shown as  ogi@github  in the header
 ROWS = [
     ("host",),
     ("kv", "Now", "Full-Stack Learner"),
-    ("kv", "Also", "Building Portfolio Projects"),
+    ("kv", "Projects", "LMS, Sawmoto, Parfum, Chatbot"),
     ("kv", "Loc", "Indonesia"),
     ("kv", "Site", "github.com/bastiandev9-dotcom"),
     ("gap",),
@@ -62,7 +62,7 @@ ROWS = [
     ("gap",),
     ("sec", "Highlights"),
     ("bul", "16 public repositories"),
-    ("bul", "Learning full-stack development"),
+    ("bul", "Contributing to an LMS repo"),
 ]
 
 
