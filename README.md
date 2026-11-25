@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ogi+Bastian+%F0%9F%91%8B;Full-Stack+Development+Learner;Building+My+Portfolio+Projects" alt="Typing SVG" />
-
-<br>
-
 <table>
 <tr>
 <td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
@@ -26,15 +22,6 @@
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
 </div>
-
----
-
-## 🚀 About Me
-
-- 💻 Learning **full-stack development**
-- 🌱 Currently exploring **JavaScript, Python, PHP**
-- 🎯 Building portfolio projects (LMS — contributing to someone else's repo, Sawmoto, Parfum-website, Chatbot-app)
-- ⚡ Fun fact: I love turning ideas into real apps
 
 ---
 
@@ -71,17 +58,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Deskripsi |
-| :--- | :--- | :--- |
-| [**SAWmoto**](https://github.com/bastiandev9-dotcom/SAWmoto) | TypeScript | Aplikasi rekomendasi kendaraan pakai metode Simple Additive Weighting (SAW). |
-| [**Parfum-website**](https://github.com/bastiandev9-dotcom/Parfum-website) | PHP | Website katalog dan profil produk parfum. |
-| [**chatbot-app**](https://github.com/bastiandev9-dotcom/chatbot-app) | Python | Aplikasi chatbot sederhana. |
-| [**LMS**](https://github.com/bastiandev9-dotcom/LMS) | TypeScript | Project rekayasa perangkat lunak — kontribusi di repo orang lain. |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -97,21 +73,4 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=bastiandev9-dotcom&theme=tokyonight&no-frame=true&row=1&column=7" />
 
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bastiandev9-dotcom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ogi%20Bastian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogi-bastian-171092319/)
-[![Instagram](https://img.shields.io/badge/Instagram-ogibst-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ogibst)
-[![Email](https://img.shields.io/badge/Email-bastiandev9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastiandev9@gmail.com)
-
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=bastiandev9-dotcom&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
 </div>
